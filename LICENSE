@@ -1,21 +1,12 @@
-MIT License
+Copyright (c) 2026 Youssef Moataz. All Rights Reserved.
 
-Copyright (c) 2026 Youssef Moataz
+This project and all related documentation (including source code, formal research reports, and forensic dashboards) are the exclusive property of Youssef Moataz.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is NOT granted for:
+1. Reproduction or duplication of any source code or findings.
+2. Distribution or transmission of the content in any public or commercial form.
+3. Modification, derivation, or re-branding of the provided security signatures and detection logic.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository is published strictly for educational demonstration and portfolio review purposes. All technical rights, forensic signatures, and original research remain reserved by the author.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For permission requests or professional inquiries, please contact the author directly via the provided portfolio channels.
