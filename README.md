@@ -2,7 +2,7 @@
 
 SENTINEL is a professional-grade Network Intrusion Detection System (NIDS) designed to identify, analyze, and alert on Denial-of-Service (DoS) attack vectors in real-time. Built using Python and Scapy, this project demonstrates a robust implementation of threshold-based heuristic detection within a Linux environment.
 
-**🔗 [View Live Forensic Dashboard]([https://lafandoor.github.io/sentinel-dos-detection/](https://lafandoor.github.io/SENTINEL-DoS-Detector/))**
+**🔗 [View Live Forensic Dashboard](https://lafandoor.github.io/SENTINEL-DoS-Detector/)*
 
 ## 🚀 Key Features
 
